@@ -7,91 +7,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\SwordEffect.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\SwordEffect.xnb</Output>
       <Time>2013-02-20T13:48:09.6347656+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\NinjaFrame1-1.png</Source>
-      <Name>Images\NinjaFrame1-1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\NinjaFrame1-1.xnb</Output>
-      <Time>2013-02-20T13:46:47.352539+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\NinjaFrame1-2.png</Source>
-      <Name>Images\NinjaFrame1-2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\NinjaFrame1-2.xnb</Output>
-      <Time>2013-02-20T13:46:47.368164+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Attack.png</Source>
-      <Name>Images\Attack</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Attack.xnb</Output>
-      <Time>2013-02-21T15:01:17.852539+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Background-1-normal.png</Source>
-      <Name>Images\Background-1-normal</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-1-normal.xnb</Output>
-      <Time>2013-02-21T16:36:28.4873046+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Background-2-transition.png</Source>
-      <Name>Images\Background-2-transition</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-2-transition.xnb</Output>
-      <Time>2013-02-21T16:36:28.4960937+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Background-3-dark.png</Source>
-      <Name>Images\Background-3-dark</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-3-dark.xnb</Output>
-      <Time>2013-02-21T16:36:28.508789+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Background-4-fire.png</Source>
-      <Name>Images\Background-4-fire</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-4-fire.xnb</Output>
-      <Time>2013-02-21T16:36:28.5546875+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\LogicalDefiance.mp3</Source>
-      <Name>Sound\LogicalDefiance</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\LogicalDefiance.xnb</Output>
-      <Extra>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\LogicalDefiance.wma</Extra>
-      <Time>2013-02-21T17:21:39.625+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Sound\OckeroidSamurai.mp3</Source>
-      <Name>Sound\OckeroidSamurai</Name>
-      <Importer>Mp3Importer</Importer>
-      <Processor>SongProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\OckeroidSamurai.xnb</Output>
-      <Extra>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\OckeroidSamurai.wma</Extra>
-      <Time>2013-02-21T17:21:39.680664+02:00</Time>
     </Item>
     <Item>
       <Source>Sound\LargeFireball.wav</Source>
@@ -99,35 +16,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\LargeFireball.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\LargeFireball.xnb</Output>
       <Time>2013-02-21T18:27:29.2148437+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Babydragon1.png</Source>
-      <Name>Images\Babydragon1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Babydragon1.xnb</Output>
-      <Time>2013-02-21T18:24:37.7373046+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Babydragon2.png</Source>
-      <Name>Images\Babydragon2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Babydragon2.xnb</Output>
-      <Time>2013-02-21T18:24:37.6845703+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\FireBall.png</Source>
-      <Name>Images\FireBall</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\FireBall.xnb</Output>
-      <Time>2013-02-21T20:56:07.5439453+02:00</Time>
     </Item>
     <Item>
       <Source>Sound\Glock.wav</Source>
@@ -135,26 +25,8 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\Glock.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\Glock.xnb</Output>
       <Time>2013-02-21T22:53:14.1416015+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Boom2.png</Source>
-      <Name>Images\Boom2</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Boom2.xnb</Output>
-      <Time>2013-02-21T23:21:06.4638671+02:00</Time>
-    </Item>
-    <Item>
-      <Source>Images\Boom1.png</Source>
-      <Name>Images\Boom1</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Boom1.xnb</Output>
-      <Time>2013-02-21T22:46:11.3076171+02:00</Time>
     </Item>
     <Item>
       <Source>Sound\Roaring.wav</Source>
@@ -162,7 +34,7 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\Roaring.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\Roaring.xnb</Output>
       <Time>2013-02-22T02:58:01.0673828+02:00</Time>
     </Item>
     <Item>
@@ -171,8 +43,116 @@
       <Importer>WavImporter</Importer>
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\SmallFireball.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\SmallFireball.xnb</Output>
       <Time>2013-02-22T02:58:01.1708984+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NinjaFrame1-1.png</Source>
+      <Name>Images\NinjaFrame1-1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\NinjaFrame1-1.xnb</Output>
+      <Time>2013-02-20T13:46:47.352539+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\NinjaFrame1-2.png</Source>
+      <Name>Images\NinjaFrame1-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\NinjaFrame1-2.xnb</Output>
+      <Time>2013-02-20T13:46:47.368164+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Attack.png</Source>
+      <Name>Images\Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Attack.xnb</Output>
+      <Time>2013-02-21T15:01:17.852539+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background-1-normal.png</Source>
+      <Name>Images\Background-1-normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-1-normal.xnb</Output>
+      <Time>2013-02-21T16:36:28.4873046+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background-2-transition.png</Source>
+      <Name>Images\Background-2-transition</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-2-transition.xnb</Output>
+      <Time>2013-02-21T16:36:28.4960937+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background-3-dark.png</Source>
+      <Name>Images\Background-3-dark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-3-dark.xnb</Output>
+      <Time>2013-02-21T16:36:28.508789+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Background-4-fire.png</Source>
+      <Name>Images\Background-4-fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Background-4-fire.xnb</Output>
+      <Time>2013-02-21T16:36:28.5546875+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Babydragon1.png</Source>
+      <Name>Images\Babydragon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Babydragon1.xnb</Output>
+      <Time>2013-02-21T18:24:37.7373046+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Babydragon2.png</Source>
+      <Name>Images\Babydragon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Babydragon2.xnb</Output>
+      <Time>2013-02-21T18:24:37.6845703+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\FireBall.png</Source>
+      <Name>Images\FireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\FireBall.xnb</Output>
+      <Time>2013-02-21T20:56:07.5439453+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Boom1.png</Source>
+      <Name>Images\Boom1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Boom1.xnb</Output>
+      <Time>2013-02-21T22:46:11.3076171+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Boom2.png</Source>
+      <Name>Images\Boom2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Boom2.xnb</Output>
+      <Time>2013-02-21T23:21:06.4638671+02:00</Time>
     </Item>
     <Item>
       <Source>Images\Dragon1.PNG</Source>
@@ -180,7 +160,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon1.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon1.xnb</Output>
       <Time>2013-02-22T02:54:25.6699218+02:00</Time>
     </Item>
     <Item>
@@ -189,7 +169,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon2.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon2.xnb</Output>
       <Time>2013-02-22T02:54:25.6728515+02:00</Time>
     </Item>
     <Item>
@@ -198,7 +178,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon3.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon3.xnb</Output>
       <Time>2013-02-22T02:54:25.6748046+02:00</Time>
     </Item>
     <Item>
@@ -207,7 +187,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon4.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragon4.xnb</Output>
       <Time>2013-02-22T02:54:25.6777343+02:00</Time>
     </Item>
     <Item>
@@ -216,7 +196,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragonfire.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Dragonfire.xnb</Output>
       <Time>2013-02-22T02:54:25.680664+02:00</Time>
     </Item>
     <Item>
@@ -225,17 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Health.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Health.xnb</Output>
       <Time>2013-02-22T02:54:25.6826171+02:00</Time>
-    </Item>
-    <Item>
-      <Source>font.spritefont</Source>
-      <Name>font</Name>
-      <Importer>FontDescriptionImporter</Importer>
-      <Processor>FontDescriptionProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\font.xnb</Output>
-      <Time>2013-02-22T14:52:37.6445312+02:00</Time>
     </Item>
     <Item>
       <Source>Images\Credits1.png</Source>
@@ -243,7 +214,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Credits1.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Credits1.xnb</Output>
       <Time>2013-02-22T14:15:40.6445312+02:00</Time>
     </Item>
     <Item>
@@ -252,7 +223,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Credits2.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Credits2.xnb</Output>
       <Time>2013-02-22T14:15:40.6640625+02:00</Time>
     </Item>
     <Item>
@@ -261,7 +232,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Credits3.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Credits3.xnb</Output>
       <Time>2013-02-22T14:15:40.6904296+02:00</Time>
     </Item>
     <Item>
@@ -270,7 +241,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\GameOver.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\GameOver.xnb</Output>
       <Time>2013-02-22T14:15:40.703125+02:00</Time>
     </Item>
     <Item>
@@ -279,7 +250,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Title.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\Title.xnb</Output>
       <Time>2013-02-22T14:15:40.7060546+02:00</Time>
     </Item>
     <Item>
@@ -288,7 +259,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\title1.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\title1.xnb</Output>
       <Time>2013-02-22T14:15:40.7177734+02:00</Time>
     </Item>
     <Item>
@@ -297,7 +268,7 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\title2.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\title2.xnb</Output>
       <Time>2013-02-22T14:15:40.7304687+02:00</Time>
     </Item>
     <Item>
@@ -306,8 +277,37 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\title3.xnb</Output>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Images\title3.xnb</Output>
       <Time>2013-02-22T14:15:40.7539062+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\LogicalDefiance.mp3</Source>
+      <Name>Sound\LogicalDefiance</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\LogicalDefiance.xnb</Output>
+      <Extra>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\LogicalDefiance.wma</Extra>
+      <Time>2013-02-21T17:21:39.625+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\OckeroidSamurai.mp3</Source>
+      <Name>Sound\OckeroidSamurai</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\OckeroidSamurai.xnb</Output>
+      <Extra>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\Sound\OckeroidSamurai.wma</Extra>
+      <Time>2013-02-21T17:21:39.680664+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font.spritefont</Source>
+      <Name>font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\font.xnb</Output>
+      <Time>2013-02-22T14:52:37.6445312+02:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -315,10 +315,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGameContent\</RootDirectory>
-      <LoggerRootDirectory>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGameContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGameContent\</RootDirectory>
+      <LoggerRootDirectory>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGame\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>

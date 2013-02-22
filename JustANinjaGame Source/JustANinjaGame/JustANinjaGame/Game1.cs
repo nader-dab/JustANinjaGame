@@ -67,7 +67,7 @@ namespace JustANinjaGame
 
             // Loading ninja texture, initial position, sound and health
             ninja = new Player(Content.Load<Texture2D>("Images\\NinjaFrame1-1"), 
-                new Rectangle(0, 0, 140, 140), Content.Load<SoundEffect>("Sound\\SwordEffect"), 8);
+                new Rectangle(0, 0, 140, 140), Content.Load<SoundEffect>("Sound\\SwordEffect"), 7);
 
             // Loading first background initial texture and position
             backgroundOne = new Screen(Content.Load<Texture2D>("Images\\Background-1-normal"), 
@@ -309,7 +309,7 @@ namespace JustANinjaGame
             // Cheat to increase health
             if (Keyboard.GetState().IsKeyDown(Keys.D1) || GamePad.GetState(PlayerIndex.One).Buttons.Start == ButtonState.Pressed)
             {
-                ninja.health++;
+                ninja.health = 99;
             }
                 
             // Update the movement of the player depending on the input

@@ -1,1 +1,2 @@
 D:\SVN-Test\Game test\JustANinjaGame\JustANinjaGame\JustANinjaGameContent\obj\x86\Debug\JustANinjaGameContent.contentprojResolveAssemblyReference.cache
+D:\JustANinjaGame\JustANinjaGame Source\JustANinjaGame\JustANinjaGameContent\obj\x86\Debug\JustANinjaGameContent.contentprojResolveAssemblyReference.cache
